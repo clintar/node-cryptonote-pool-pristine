@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "bignum": "*",
-        "async": "*",
+        "async": "1",
         "redis": "0.12.1",
         "cli-color": "*",
         "dateformat": "*",
